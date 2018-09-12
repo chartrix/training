@@ -11,7 +11,7 @@ Varias capacitaciones en codigo
 
 
 # Fix al archivo README
-- Eder
+- EDER
 - Villanueva
-- Cortez
+- CORTEZ
 
