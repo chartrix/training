@@ -8,3 +8,10 @@ Varias capacitaciones en codigo
 
 # Branch Actual
 1. Develop
+
+
+# Fix al archivo README
+- Eder
+- Villanueva
+- Cortez
+
